@@ -7,6 +7,7 @@ typedef vector<ll> vl;
 typedef pair<int,int> pi;
 typedef vector<pi> vpi;
 typedef vector<vi> vvi;
+typedef vector<vl> vvl;
 
 //Macros (they replace the words with exact code so be careful while using them)
 #define F first
